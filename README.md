@@ -134,7 +134,7 @@ See `CITATION.cff`. Example BibTeX:
   year      = {2026},
   version   = {1.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
+  doi       = {10.5281/zenodo.20631793},
   license   = {CC-BY-4.0}
 }
 ```
