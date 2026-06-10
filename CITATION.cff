@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "YUA-ES Communicative Contexts Corpus"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+abstract: >-
+  A parallel corpus of 14,332 aligned Yucatec Maya (YUA) - Spanish (ES) phrase
+  pairs organized into 31 everyday communicative contexts. Created through a
+  collaboration between CentroGeo (Secihti, Mexico) and SEDECULTA (Government of the
+  State of Yucatan) under agreement SEDECULTA-CDC-253-05-2024, with the aim of
+  supporting machine translation and language technologies for Yucatec Maya.
+authors:
+  - family-names: "Molina-Villegas"
+    given-names: "Alejandro"
+    affiliation: "Centro de Investigacion en Ciencias de Informacion Geoespacial (CentroGeo), Secretaria de Ciencia, Humanidades, Tecnologia e Innovacion (Secihti, Mexico)"
+    orcid: "https://orcid.org/0000-0001-9398-8844"
+  - family-names: "Chavarrea Chim"
+    given-names: "Maria Elisa"
+    affiliation: "Secretaria de la Cultura y las Artes de Yucatan (SEDECULTA)"
+  - family-names: "Canul Yah"
+    given-names: "Samuel"
+    affiliation: "Secretaria de la Cultura y las Artes de Yucatan (SEDECULTA)"
+  - family-names: "Hau Ucan"
+    given-names: "Sary Lorena"
+    affiliation: "Secretaria de la Cultura y las Artes de Yucatan (SEDECULTA)"
+  - family-names: "Cano Chan"
+    given-names: "Daniela Esther"
+    affiliation: "SEDECULTA (Becaria del proyecto)"
+  - family-names: "Moo Batun"
+    given-names: "Alejandra del Rocio"
+    affiliation: "SEDECULTA (Becaria del proyecto)"
+  - family-names: "Hau Caamal"
+    given-names: "Gregorio"
+    affiliation: "SEDECULTA (Becario del proyecto)"
+version: "1.0"
+date-released: "2026-06-15"
+license: "CC-BY-4.0"
+keywords:
+  - "Yucatec Maya"
+  - "yuca1254"
+  - "machine translation"
+  - "parallel corpus"
+  - "indigenous languages"
+  - "low-resource languages"
+  - "NLP"
+  - "language documentation"
+doi: "10.5281/zenodo.XXXXXXX"            # <-- COMPLETAR tras publicar en Zenodo
+url: "https://github.com/alemol/yua-es-ccc"
+repository-code: "https://github.com/alemol/yua-es-ccc"
