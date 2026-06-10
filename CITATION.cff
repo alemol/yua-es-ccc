@@ -31,7 +31,7 @@ authors:
   - family-names: "Hau Caamal"
     given-names: "Gregorio"
     affiliation: "SEDECULTA (Becario del proyecto)"
-version: "1.0"
+version: "1.0.0"
 date-released: "2026-06-15"
 license: "CC-BY-4.0"
 keywords:
