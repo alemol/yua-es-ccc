@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "YUA-ES Communicative Contexts Corpus"
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset, cite it as below."
 type: dataset
 abstract: >-
   A parallel corpus of 14,332 aligned Yucatec Maya (YUA) - Spanish (ES) phrase
@@ -43,6 +43,6 @@ keywords:
   - "low-resource languages"
   - "NLP"
   - "language documentation"
-doi: "10.5281/zenodo.XXXXXXX"            # <-- COMPLETAR tras publicar en Zenodo
+doi: "10.5281/zenodo.20631793"
 url: "https://github.com/alemol/yua-es-ccc"
 repository-code: "https://github.com/alemol/yua-es-ccc"
